@@ -5,7 +5,14 @@
 
 
 
-## Profile card criado com HTML e CSS
+
+Um "profile card" (cartão de perfil) é uma representação digital personalizável do seu perfil, 🙋
+que facilita o compartilhamento e a conexão com outras pessoas. 👬
+Ele funciona como um cartão de visita virtual 📱
+
+
+
+### Profile card criado com HTML e CSS
 
 
 
